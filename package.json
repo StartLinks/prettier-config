@@ -1,6 +1,6 @@
 {
   "name": "@startlinks/prettier-config",
-  "version": "0.7.5",
+  "version": "0.7.7",
   "description": "Prettier config by startlinks",
   "license": "MIT",
   "homepage": "https://github.com/startlinks/prettier-config",
@@ -14,7 +14,7 @@
     "format": "prettier --cache --write ."
   },
   "dependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.5.3"
   },
   "prettier": "./index.js"
 }
