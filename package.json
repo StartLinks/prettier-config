@@ -1,12 +1,12 @@
 {
-  "name": "@fzf404/prettier-config",
+  "name": "@startlinks/prettier-config",
   "version": "0.7.5",
-  "description": "Prettier config by fzf404",
+  "description": "Prettier config by startlinks",
   "license": "MIT",
-  "homepage": "https://github.com/fzf404/prettier-config",
+  "homepage": "https://github.com/startlinks/prettier-config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fzf404/prettier-config.git"
+    "url": "git+https://github.com/startlinks/prettier-config.git"
   },
   "type": "module",
   "main": "index.js",

@@ -1,9 +1,9 @@
-# @fzf404/prettier-config
+# @startlinks/prettier-config
 
-[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config?style=flat&color=f03e3e)](https://npmjs.com/package/@fzf404/prettier-config)
-[![star](https://img.shields.io/github/stars/fzf404/prettier-config?style=flat&color=1c7ed6)](https://github.com/fzf404/prettier-config)
-[![license](https://img.shields.io/npm/l/@fzf404/prettier-config?style=flat&color=37b24d)](https://github.com/fzf404/prettier-config/blob/main/LICENSE)
-[![language](https://img.shields.io/badge/language-简体中文-f76707)](https://github.com/fzf404/prettier-config)
+[![npm](https://img.shields.io/npm/v/@startlinks/prettier-config?style=flat&color=f03e3e)](https://npmjs.com/package/@startlinks/prettier-config)
+[![star](https://img.shields.io/github/stars/startlinks/prettier-config?style=flat&color=1c7ed6)](https://github.com/startlinks/prettier-config)
+[![license](https://img.shields.io/npm/l/@startlinks/prettier-config?style=flat&color=37b24d)](https://github.com/startlinks/prettier-config/blob/main/LICENSE)
+[![language](https://img.shields.io/badge/language-简体中文-f76707)](https://github.com/startlinks/prettier-config)
 
 My personal Prettier config ( 我的 Prettier 配置 )
 
@@ -17,7 +17,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 ## Install ( 安装 )
 
 ```bash
-pnpm i -D @fzf404/prettier-config
+pnpm i -D @startlinks/prettier-config
 ```
 
 ## Usage ( 使用 )
@@ -29,7 +29,7 @@ Edit `package.json` ( 编辑 `package.json` )
   "scripts": {
     "format": "prettier --cache --write .",
   },
-  "prettier": "@fzf404/prettier-config",
+  "prettier": "@startlinks/prettier-config",
 }
 ```
 
